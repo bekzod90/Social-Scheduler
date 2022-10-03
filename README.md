@@ -13,7 +13,7 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 <h2 align = "center">Skills Required </h2>
 
 - ReactJS
-- Nodejs
+- NodeJS
 - Python
 - Selenium
 - API for Various Social Media

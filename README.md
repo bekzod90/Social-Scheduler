@@ -11,7 +11,6 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 <p align="center"><img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width=45%></p>
 
 <h2 align = "center">Skills Required </h2>
-
 - ReactJS
 - Nodejs
 - Python

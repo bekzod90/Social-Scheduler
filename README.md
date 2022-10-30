@@ -2,7 +2,6 @@
 Social Media is everywhere. Who doesn't use it?. Twitter, Instagram, Facebook, Snapchat have evolved to be the means of modern communication.
 <p align="center"><img src="https://media.giphy.com/media/atZII8NmbPGw0/giphy.gif" width=50%></p>
 
-
 A project to automatically send invite to all of your social media like LinkedIn, Facebook, email, WhatsApp, Instagram as soon as he finishes filling the form. 
 <p align="center"><img src="https://media.giphy.com/media/YqcW1kMnm3m9YHAUHc/giphy.gif" width=45%></p>
 
